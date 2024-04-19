@@ -4,7 +4,7 @@
 ###
 
 <h1 align="center">Isaac Dsouza</h1>
-<h3 align="center">I don't know what I took, but I took too many</h3>
+<h6 align="center">I don't know what I took, but I took too many</h6>
 
 
 

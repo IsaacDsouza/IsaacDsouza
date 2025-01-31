@@ -1,19 +1,15 @@
 ## Greetings! 👋
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-I am Leander Stephen D'Souza, and people call me 🌈 LSD! 🌈, not for the reasons you may think. It's just that the acronym of my name spells out a psychedelic drug.
+I am Isaac Marian Dsouza, currently pursuing my B.Tech Degree in Computer Science with specialization in Artificial Intelligence(2026). 
 
 
-That being said, I'm a robotics and tech enthusiast. I love working on projects that inspire me and motivate me to develop innovative/disruptive solutions.
-I'm proficient in ROS 🤖, Motion Planning and Image Processing. My dream is to contribute to the field of mobile robotics.
+That being said, I'm a Full Stack Web Developer and a Data Science enthusiast. I love working on projects that inspire me and motivate me to develop innovative/disruptive solutions.
+I'm proficient in web development, computer vision and machine learning. My focus is on creating modern high-performance websites and apps that excel in design, functionality, accessibility, and user experience with the integration of AI.
 
+I have 1+ years of experience working in a SECURITY SERVICES & SOLUTIONS company - [BROADBITS](https://www.broadbits.com/), as a Front-end Developer, and still currently working here.
 
-I have graduated with a B.Tech Degree in Mechatronics from [Manipal Institute of Technology](https://manipal.edu/mit.html) and a MSc. Degree in Robotics from [University of Sheffield](https://www.sheffield.ac.uk/). Additionally, I have three years of experience working in a high-paced robotics startup - [Black Coffee Robotics](https://www.blackcoffeerobotics.com/), as a Robotics Engineer.
-
-Currently, I am working as a Robotics Commissioning Engineer at [Dexory](https://www.dexory.com/).
-
-For more details, visit my website - [leanderstephendsouza.com](https://www.leanderstephendsouza.com/)
+For more details, visit my website - [isaacmariandsouza.com](https://www.isaacmariandsouza.com/)
 
 ---
 

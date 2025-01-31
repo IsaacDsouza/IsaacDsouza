@@ -16,10 +16,10 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 ### Profile Statistics
 </br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-leander-dsouza)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-IsaacDsouza)
 
-![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=leander-dsouza&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=leander-dsouza&hide=TeX&layout=compact&theme=radical)
+![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=IsaacDsouza&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=IsaacDsouza&hide=TeX&layout=compact&theme=radical)
 
 ---
 

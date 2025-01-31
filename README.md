@@ -23,35 +23,15 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 
 ---
 
-### Popular Repositories
-</br>
-
-<a href="https://github.com/blackcoffeerobotics/emojicloud_plugin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=blackcoffeerobotics&repo=emojicloud_plugin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
----
-
-<a href="https://github.com/leander-dsouza/Atreus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leander-dsouza&repo=Atreus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
----
 ### Social and Professional Reach:
 </br>
 
-[![Instagram Badge](https://img.shields.io/badge/-lsd____________-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/lsd____________/?hl=en)](https://www.instagram.com/lsd____________/?hl=en)
-[![Facebook Badge](https://img.shields.io/badge/-leanderdsouza22-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/leanderdsouza22)](https://www.facebook.com/leanderdsouza22)
-[![Twitter Badge](https://img.shields.io/badge/-LeanderStephen3-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/LeanderStephen3)](https://twitter.com/LeanderStephen3)
-[![Reddit Badge](https://img.shields.io/badge/-leanderLSD-FF4500?style=plastic&logo=Reddit&logoColor=white)](https://www.reddit.com/user/leanderLSD)
-[![Discord Badge](https://img.shields.io/badge/-LSD%233237-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.gg/h6YGr56)
-[![Tumblr Badge](https://img.shields.io/badge/-leander&#8211;dsouza-36465D?style=plastic&logo=tumblr&logoColor=white)](http://leander-dsouza.tumblr.com/)
+[![Instagram Badge](https://img.shields.io/badge/-lsd____________-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/isaac_dsouz/?hl=en)](https://www.instagram.com/isaac_dsouz/?hl=en)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leander%20Stephen%20D'Souza-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lsd/)
-[![Medium Badge](https://img.shields.io/badge/-leanderdsouza1234-black?style=plastic&logo=Medium&logoColor=white)](https://medium.com/@leanderdsouza1234)
-[![Gmail Badge](https://img.shields.io/badge/-leanderdsouza1234@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:leanderdsouza1234@gmail.com)](mailto:leanderdsouza1234@gmail.com)
-[![HackerRank Badge](https://img.shields.io/badge/leanderdsouza121-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/leanderdsouza121)
-[![Kaggle Badge](https://img.shields.io/badge/-leanderstephendsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/leanderstephendsouza)
+[![Linkedin Badge](https://img.shields.io/badge/-Isaac%20Marian%20Dsouza-blue?style=plastic&logo=Linkedin&logoColor=white)](www.linkedin.com/in/isaac-marian-dsouza-42b5aa288)
+[![Gmail Badge](https://img.shields.io/badge/-isaacdsouza0809@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isaacdsouza0809@gmail.com)](mailto:isaacdsouza0809@gmail.com)
+[![HackerRank Badge](https://img.shields.io/badge/isaacmdsouza-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/profile/isaacmdsouza)
+[![Kaggle Badge](https://img.shields.io/badge/-isaacmariandsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/isaacmariandsouza)
 
 ---
 ### Skills:

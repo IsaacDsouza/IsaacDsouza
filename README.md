@@ -28,7 +28,7 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 
 [![Instagram Badge](https://img.shields.io/badge/-isaac_dsouz-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/isaac_dsouz/?hl=en)](https://www.instagram.com/isaac_dsouz/?hl=en)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Isaac%20Marian%20Dsouza-blue?style=plastic&logo=Linkedin&logoColor=white)](www.linkedin.com/in/isaac-marian-dsouza-42b5aa288/)
+[![Linkedin Badge](https://img.shields.io/badge/-Leander%20Stephen%20D'Souza-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lsd/)
 [![Gmail Badge](https://img.shields.io/badge/-isaacdsouza0809@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isaacdsouza0809@gmail.com)](mailto:isaacdsouza0809@gmail.com)
 [![HackerRank Badge](https://img.shields.io/badge/isaacmdsouza-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/profile/isaacmdsouza)
 [![Kaggle Badge](https://img.shields.io/badge/-isaacmariandsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/isaacmariandsouza)

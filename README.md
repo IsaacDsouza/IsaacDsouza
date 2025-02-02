@@ -26,7 +26,7 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 ### Social and Professional Reach:
 </br>
 
-[![Instagram Badge](https://img.shields.io/badge/-lsd____________-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/isaac_dsouz/?hl=en)](https://www.instagram.com/isaac_dsouz/?hl=en)
+[![Instagram Badge](https://img.shields.io/badge/-isaac_dsouz-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/isaac_dsouz/?hl=en)](https://www.instagram.com/isaac_dsouz/?hl=en)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Isaac%20Marian%20Dsouza-blue?style=plastic&logo=Linkedin&logoColor=white)](www.linkedin.com/in/isaac-marian-dsouza-42b5aa288)
 [![Gmail Badge](https://img.shields.io/badge/-isaacdsouza0809@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isaacdsouza0809@gmail.com)](mailto:isaacdsouza0809@gmail.com)
@@ -40,8 +40,6 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=C%2B%2B)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=plastic&logo=CMake)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=C)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=LaTex)
 
@@ -50,20 +48,12 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=PyCharm)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-000000?style=plastic&logo=Sublime-Text)
 
 * **VCS**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=GitLab)
-
-* **Prototyping Boards**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
 
 * **Operating Systems**

@@ -7,7 +7,7 @@ I am Isaac Marian Dsouza, currently pursuing my B.Tech Degree in Computer Scienc
 That being said, I'm a Full Stack Web Developer and a Data Science enthusiast. I love working on projects that inspire me and motivate me to develop innovative/disruptive solutions.
 I'm proficient in web development, computer vision and machine learning. My focus is on creating modern high-performance websites and apps that excel in design, functionality, accessibility, and user experience with the integration of AI.
 
-I have 1+ years of experience working in a SECURITY SERVICES & SOLUTIONS company - [BROADBITS](https://www.broadbits.com/), as a Front-end Developer, and still currently working here.
+I have 1+ years of experience working in a SECURITY SERVICES & SOLUTIONS company - [BROADBITS](https://broadbits.com/), as a Front-end Developer, and still currently working here.
 
 For more details, visit my website - [isaacmariandsouza.com](https://www.isaacmariandsouza.com/)
 
@@ -35,8 +35,10 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 [![HackerRank Badge](https://img.shields.io/badge/isaacmdsouza-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/profile/isaacmdsouza)
 [![Kaggle Badge](https://img.shields.io/badge/-isaacmariandsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/isaacmariandsouza)
 
----
+
 ### Skills:
+</br>
+
 
 * **Languages**
 

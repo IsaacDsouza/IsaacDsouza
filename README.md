@@ -23,6 +23,9 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 <p align="center">
   <img src="https://github-readme-streak-stats-pi-inky.vercel.app?user=IsaacDsouza&theme=github-dark-blue&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/isaac_2?theme=dark&ext=activity"/>
+</p>
 
 ### Social and Professional Reach:
 </br>

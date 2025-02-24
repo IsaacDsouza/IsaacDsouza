@@ -38,48 +38,35 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 [![Kaggle Badge](https://img.shields.io/badge/-isaacmariandsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/isaacmariandsouza)
 
 
-### Skills:
-</br>
+<p> 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-SciKitLearn-000?style=for-the-badge&logo=scikit-learn&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Keras-000?style=for-the-badge&logo=keras&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Sanic-000?style=for-the-badge&logo=sanic&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&color=151515&logoColor=000&labelColor=f28a00">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
+</div>
+</p>
 
+<br/>
 
-* **Languages**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=C)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=plastic&logo=LaTex)
-
-* **Editors and IDEs**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=plastic&logo=PyCharm)
-
-* **VCS**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-
-
-* **Operating Systems**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=Windows&logoColor=white)
-
-
-* **Software and Frameworks**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=plastic&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white) 
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=plastic&logo=ROS)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=plastic&logo=Unity)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=plastic&logo=Docker)
-![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=plastic&logo=ngrok)
-
+![Isaac Marian Dsouza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaacDsouza&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)
 
 
 

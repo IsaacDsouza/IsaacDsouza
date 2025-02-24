@@ -37,6 +37,7 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 [![HackerRank Badge](https://img.shields.io/badge/isaacmdsouza-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/profile/isaacmdsouza)
 [![Kaggle Badge](https://img.shields.io/badge/-isaacmariandsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/isaacmariandsouza)
 
+</br>
 
 <p> 
 <div align="center">

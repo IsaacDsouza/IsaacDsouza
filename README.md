@@ -3,9 +3,10 @@
 
 I am Isaac Marian Dsouza, currently pursuing my B.Tech Degree in Computer Science with specialization in Artificial Intelligence(2026). 
 
-
-That being said, I'm a Full Stack Web Developer and a Data Science enthusiast. I love working on projects that inspire me and motivate me to develop innovative/disruptive solutions.
-I'm proficient in web development, computer vision and machine learning. My focus is on creating modern high-performance websites and apps that excel in design, functionality, accessibility, and user experience with the integration of AI.
+A highly driven and enthusiastic individual with a strong foundation in data analytics and machine learning, aiming to solve real-world problems through data-driven solutions. Experienced in
+Python, SQL, and data visualization tools, with hands-on practice in analyzing, cleaning, and modeling data to generate actionable insights. Also skilled as a Full Stack Developer with 
+experience in TypeScript, React.js, Mongodb, etc bringing a unique blend of analytical thinking and technical implementation to build modern, data-powered applications focused on 
+functionality, accessibility, anduser experience.
 
 I have 1+ years of experience working in a SECURITY SERVICES & SOLUTIONS company - [BROADBITS](https://broadbits.com/), as a Front-end Developer, and still currently working here.
 
@@ -22,9 +23,6 @@ For more details, visit my website - [isaacmariandsouza.com](https://www.isaacma
 ![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=IsaacDsouza&hide=TeX&layout=compact&theme=radical)
 <p align="center">
   <img src="https://github-readme-streak-stats-pi-inky.vercel.app?user=IsaacDsouza&theme=github-dark-blue&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/isaac_2?theme=dark&ext=activity"/>
 </p>
 
 ### Social and Professional Reach:

@@ -8,7 +8,7 @@ Python, SQL, and data visualization tools, with hands-on practice in analyzing, 
 experience in TypeScript, React.js, Mongodb, etc bringing a unique blend of analytical thinking and technical implementation to build modern, data-powered applications focused on 
 functionality, accessibility, anduser experience.
 
-I have 1+ years of experience working in a SECURITY SERVICES & SOLUTIONS company - [BROADBITS](https://broadbits.com/), as a Full Stack Developer(Django+Typescript+React+PostgreSQL+Swagger), and still currently working here.
+I have 1+ years of experience working in a SECURITY SERVICES & SOLUTIONS company - [BROADBITS](https://broadbits.com/), as a Full Stack Developer(Django+Typescript+React+PostgreSQL+Swagger).
 
 For more details, visit my website - [isaacmariandsouza.com](https://www.isaacmariandsouza.com/)
 

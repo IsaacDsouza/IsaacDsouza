@@ -1,16 +1,12 @@
-## Greetings! 👋
+## 👋 About Me
 
+I am Isaac Marian Dsouza, currently pursuing my B.Tech in Computer Science with a specialization in Artificial Intelligence (2026).
 
-I am Isaac Marian Dsouza, currently pursuing my B.Tech Degree in Computer Science with specialization in Artificial Intelligence(2026). 
+Machine learning enthusiast with hands-on experience building real-world AI solutions using Python, Azure OpenAI, and modern data pipelines. Adept at integrating advanced AI, RAG, NL2SQL, and multi-modal capabilities into production systems, leveraging technologies such as Redis vectors, Chroma, and cloud-based databases. Strong background in DevOps and containerization (Docker, Azure Cloud), ensuring scalable and reliable deployment of applications. Skilled in data analytics, modeling, and visualization, with expertise in SQL and end-to-end data workflows. Proficient full stack developer (FastAPI, React, TypeScript) focused on delivering robust, user-centric solutions.
 
-A highly driven and enthusiastic individual with a strong foundation in data analytics and machine learning, aiming to solve real-world problems through data-driven solutions. Experienced in
-Python, SQL, and data visualization tools, with hands-on practice in analyzing, cleaning, and modeling data to generate actionable insights. Also skilled as a Full Stack Developer with 
-experience in TypeScript, React.js, Mongodb, etc bringing a unique blend of analytical thinking and technical implementation to build modern, data-powered applications focused on 
-functionality, accessibility, anduser experience.
+I have 1+ years of experience at [BROADBITS](https://broadbits.com/), a security services & solutions company, as a Full Stack Developer (Django, TypeScript, React, PostgreSQL, Swagger).
 
-I have 1+ years of experience working in a SECURITY SERVICES & SOLUTIONS company - [BROADBITS](https://broadbits.com/), as a Full Stack Developer(Django+Typescript+React+PostgreSQL+Swagger).
-
-For more details, visit my website - [isaacmariandsouza.com](https://www.isaacmariandsouza.com/)
+For more details, visit my website: [isaacmariandsouza.com](https://www.isaacmariandsouza.com/)
 
 ---
 

@@ -16,10 +16,6 @@ For more details, visit my website: [isaacmariandsouza.com](https://www.isaacmar
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-IsaacDsouza)
 
 ![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=IsaacDsouza&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=IsaacDsouza&hide=TeX&layout=compact&theme=radical)
-<p align="center">
-  <img src="https://github-readme-streak-stats-pi-inky.vercel.app?user=IsaacDsouza&theme=github-dark-blue&hide_border=true"/>
-</p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/isaac_2?theme=dark&ext=activity"/>
 </p>
@@ -64,8 +60,7 @@ For more details, visit my website: [isaacmariandsouza.com](https://www.isaacmar
 
 <br/>
 
-![Isaac Marian Dsouza's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaacDsouza&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)
 
 
 
-###### 💾 EOF
+######

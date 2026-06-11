@@ -1,66 +1,143 @@
-## 👋 About Me
+# Isaac Marian Dsouza
 
-I am Isaac Marian Dsouza, currently pursuing my B.Tech in Computer Science with a specialization in Artificial Intelligence (2026).
+### Full Stack Engineer | Security Engineering | AI Systems
 
-Machine learning enthusiast with hands-on experience building real-world AI solutions using Python, Azure OpenAI, and modern data pipelines. Adept at integrating advanced AI, RAG, NL2SQL, and multi-modal capabilities into production systems, leveraging technologies such as Redis vectors, Chroma, and cloud-based databases. Strong background in DevOps and containerization (Docker, Azure Cloud), ensuring scalable and reliable deployment of applications. Skilled in data analytics, modeling, and visualization, with expertise in SQL and end-to-end data workflows. Proficient full stack developer (FastAPI, React, TypeScript) focused on delivering robust, user-centric solutions.
+I'm a Full Stack Engineer focused on building AI-powered platforms, security automation systems, and cloud-native applications.
 
-I have 1+ years of experience at [BROADBITS](https://broadbits.com/), a security services & solutions company, as a Full Stack Developer (Django, TypeScript, React, PostgreSQL, Swagger).
+Currently, I am pursuing a **B.Tech in Computer Science Engineering (Artificial Intelligence)** at **Manipal Institute of Technology (2026)** and working as a **Cyber Security Engineering Intern (Threat Mitigation)** at **Eli Lilly and Company**.
 
-For more details, visit my website: [isaacmariandsouza.com](https://www.isaacmariandsouza.com/)
+My experience spans enterprise software engineering, AI systems, cloud infrastructure, security automation, and platform engineering. I enjoy building scalable products that combine modern software engineering practices with AI and automation to solve real-world problems.
 
 ---
 
-### Profile Statistics
-</br>
+## About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-IsaacDsouza)
+Over the past year, I have worked across enterprise software engineering, AI-powered platforms, and security automation systems.
+
+At **Eli Lilly and Company**, I build enterprise-scale AI and security solutions including:
+
+- AI-powered compliance platforms mapped across ISO 27001, NIST, and HIPAA frameworks
+- Enterprise phishing analytics systems used by leadership and security stakeholders
+- Automated reporting platforms supporting security awareness operations for 80,000+ employees
+- Cloud-native applications leveraging Kubernetes, Azure, Docker, GitHub Actions, and modern DevOps practices
+
+Previously, I worked at **BroadBITS** as a Backend Intern and later Full Stack Developer, building enterprise workflow automation platforms using React, TypeScript, Django, GraphQL, and PostgreSQL.
+
+Portfolio: https://www.isaacmariandsouza.com
+
+---
+
+## Current Areas of Interest
+
+- Full Stack Engineering
+- AI Agents & LLM Systems
+- Security Engineering
+- Cloud Architecture
+- Platform Engineering
+- Distributed Systems
+- Developer Tooling
+
+---
+
+## Experience
+
+### Eli Lilly and Company
+**Cyber Security Engineering Intern – Threat Mitigation**
+
+- Built AI-powered compliance and security analytics platforms using Claude Agents, FastAPI, Kubernetes, Azure, and cloud-native architectures.
+- Developed compliance intelligence systems mapping evidence across ISO 27001, NIST, and HIPAA frameworks.
+- Built enterprise phishing reporting and analytics platforms supporting security awareness operations for 80,000+ employees.
+- Developed AI-powered analytics solutions used by leadership and security stakeholders.
+- Worked across Azure, Azure AD (Entra ID), Azure Functions, Kubernetes, GitHub Actions, Argo CD, RBAC, and enterprise cloud infrastructure.
+
+### BroadBITS – Computer and Network Security
+**Backend Intern → Full Stack Developer**
+
+- Built secure GraphQL APIs and scalable backend services.
+- Developed enterprise workflow automation platforms using React, TypeScript, Django, and PostgreSQL.
+- Improved platform performance, reliability, and developer experience.
+
+---
+
+## Enterprise AI & Security Platforms
+
+### AI Compliance Assistant
+
+AI-powered compliance assistant adopted by the Threat Mitigation team, enabling auditors to query enterprise security evidence and automatically map findings across ISO 27001, NIST, and HIPAA frameworks.
+
+### Enterprise Phishing Reporting Platform
+
+Automated phishing simulation reporting platform supporting security awareness operations for 80,000+ employees while eliminating manual effort and reducing operational costs.
+
+### AI-Powered Phishing Analytics Platform
+
+AI-powered analytics platform used by senior leadership and security stakeholders for natural-language exploration of enterprise phishing campaign performance.
+
+---
+
+## Technology Stack
+
+### Languages
+
+`Python` `TypeScript` `JavaScript` `SQL` `Java`
+
+### Frontend
+
+`React` `Next.js` `Tailwind CSS` `Material UI`
+
+### Backend & APIs
+
+`FastAPI` `Django` `GraphQL` `REST APIs` `gRPC`
+
+### AI Systems
+
+`Claude Agents` `LangChain` `RAG`
+`Prompt Engineering` `Vector Databases`
+
+### Cloud Platforms
+
+`Azure`
+`Azure Functions`
+`Azure AD (Entra ID)`
+`Azure Subscriptions`
+`AWS S3`
+
+### DevOps & Infrastructure
+
+`Docker`
+`Kubernetes`
+`Argo CD`
+`GitHub Actions`
+
+### Data & Analytics
+
+`PostgreSQL`
+`MongoDB`
+`Redis`
+`Splunk`
+`Power BI`
+`Pandas`
+
+---
+
+## Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=IsaacDsouza)
 
 ![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=IsaacDsouza&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/isaac_2?theme=dark&ext=activity"/>
 </p>
 
-### Social and Professional Reach:
-</br>
+---
 
-[![Instagram Badge](https://img.shields.io/badge/-isaac_dsouz-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/isaac_dsouz/?hl=en)](https://www.instagram.com/isaac_dsouz/?hl=en)
+## Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-Isaac%20Marian%20Dsouza-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-marian-dsouza-42b5aa288/)
-[![Gmail Badge](https://img.shields.io/badge/-isaacdsouza0809@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isaacdsouza0809@gmail.com)](mailto:isaacdsouza0809@gmail.com)
-[![HackerRank Badge](https://img.shields.io/badge/isaacmdsouza-black.svg?style=plastic&logo=hackerrank)](https://www.hackerrank.com/profile/isaacmdsouza)
-[![Kaggle Badge](https://img.shields.io/badge/-isaacmariandsouza-20BEFF?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/isaacmariandsouza)
+- LinkedIn: https://www.linkedin.com/in/isaac-marian-dsouza-42b5aa288/
+- Portfolio: https://www.isaacmariandsouza.com
+- Email: isaacdsouza0809@gmail.com
 
-</br>
+---
 
-<p> 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-SciKitLearn-000?style=for-the-badge&logo=scikit-learn&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Keras-000?style=for-the-badge&logo=keras&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Sanic-000?style=for-the-badge&logo=sanic&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-</p>
-
-<br/>
-
-
-
-
-######
+Full Stack Engineer | Security Engineering | AI Systems

@@ -2,60 +2,58 @@
 
 ### Full Stack Engineer | Security Engineering | AI Systems
 
-I'm a Full Stack Engineer focused on building AI-powered platforms, security automation systems, and cloud-native applications.
+```python
+class Isaac:
+    role = "Full Stack Engineer"
 
-Currently, I am pursuing a **B.Tech in Computer Science Engineering (Artificial Intelligence)** at **Manipal Institute of Technology (2026)** and working as a **Cyber Security Engineering Intern (Threat Mitigation)** at **Eli Lilly and Company**.
+    focus = [
+        "AI Systems",
+        "Security Engineering",
+        "Cloud Infrastructure",
+        "Platform Engineering"
+    ]
 
-My experience spans enterprise software engineering, AI systems, cloud infrastructure, security automation, and platform engineering. I enjoy building scalable products that combine modern software engineering practices with AI and automation to solve real-world problems.
+    currently_building = [
+        "LLM Agents",
+        "Enterprise Automation Platforms",
+        "Security Analytics Systems"
+    ]
 
----
+    tech_stack = {
+        "frontend": ["React", "TypeScript", "Next.js"],
+        "backend": ["FastAPI", "Django", "GraphQL", "gRPC"],
+        "ai": ["Claude", "LangChain", "RAG"],
+        "cloud": ["Azure", "Kubernetes", "Docker"]
+    }
+```
 
-## About Me
+Building systems where software engineering, AI, and cloud infrastructure intersect.
 
-Over the past year, I have worked across enterprise software engineering, AI-powered platforms, and security automation systems.
-
-At **Eli Lilly and Company**, I build enterprise-scale AI and security solutions including:
-
-- AI-powered compliance platforms mapped across ISO 27001, NIST, and HIPAA frameworks
-- Enterprise phishing analytics systems used by leadership and security stakeholders
-- Automated reporting platforms supporting security awareness operations for 80,000+ employees
-- Cloud-native applications leveraging Kubernetes, Azure, Docker, GitHub Actions, and modern DevOps practices
-
-Previously, I worked at **BroadBITS** as a Backend Intern and later Full Stack Developer, building enterprise workflow automation platforms using React, TypeScript, Django, GraphQL, and PostgreSQL.
-
-Portfolio: https://www.isaacmariandsouza.com
-
----
-
-## Current Areas of Interest
-
-- Full Stack Engineering
-- AI Agents & LLM Systems
-- Security Engineering
-- Cloud Architecture
-- Platform Engineering
-- Distributed Systems
-- Developer Tooling
+Currently working within the Threat Mitigation organization at Eli Lilly and Company, developing enterprise-scale AI platforms, security automation systems, and cloud-native applications.
 
 ---
 
-## Experience
+## Current Focus
 
-### Eli Lilly and Company
-**Cyber Security Engineering Intern – Threat Mitigation**
+```yaml
+building:
+  - AI Agents
+  - Enterprise Automation
+  - Security Analytics
+  - Cloud-Native Systems
 
-- Built AI-powered compliance and security analytics platforms using Claude Agents, FastAPI, Kubernetes, Azure, and cloud-native architectures.
-- Developed compliance intelligence systems mapping evidence across ISO 27001, NIST, and HIPAA frameworks.
-- Built enterprise phishing reporting and analytics platforms supporting security awareness operations for 80,000+ employees.
-- Developed AI-powered analytics solutions used by leadership and security stakeholders.
-- Worked across Azure, Azure AD (Entra ID), Azure Functions, Kubernetes, GitHub Actions, Argo CD, RBAC, and enterprise cloud infrastructure.
+learning:
+  - Distributed Systems
+  - Platform Engineering
+  - Kubernetes Internals
+  - System Design
 
-### BroadBITS – Computer and Network Security
-**Backend Intern → Full Stack Developer**
-
-- Built secure GraphQL APIs and scalable backend services.
-- Developed enterprise workflow automation platforms using React, TypeScript, Django, and PostgreSQL.
-- Improved platform performance, reliability, and developer experience.
+interested_in:
+  - AI Infrastructure
+  - Developer Platforms
+  - Security Engineering
+  - Backend Systems
+```
 
 ---
 
@@ -63,15 +61,144 @@ Portfolio: https://www.isaacmariandsouza.com
 
 ### AI Compliance Assistant
 
-AI-powered compliance assistant adopted by the Threat Mitigation team, enabling auditors to query enterprise security evidence and automatically map findings across ISO 27001, NIST, and HIPAA frameworks.
+An enterprise-grade compliance intelligence platform adopted by the Threat Mitigation team.
+
+The platform enables auditors to ask natural-language questions and automatically retrieves permission-scoped evidence from enterprise systems, policies, logs, and security records. Retrieved evidence is mapped across multiple compliance frameworks including ISO 27001, NIST, and HIPAA, generating source-linked responses with explicit gap detection and human review workflows.
+
+#### Architecture
+
+```text
+Auditor Query
+      │
+      ▼
+Claude Agent
+      │
+      ▼
+Evidence Retrieval Layer
+      │
+      ├── Policies
+      ├── Logs
+      ├── System Records
+      │
+      ▼
+Framework Mapping Engine
+      │
+      ├── ISO 27001
+      ├── NIST
+      └── HIPAA
+      │
+      ▼
+Cited Response + Human Review
+```
+
+#### Stack
+
+```text
+FastAPI
+Claude
+gRPC
+Azure AD (Entra ID)
+RBAC
+SSE Streaming
+```
+
+---
 
 ### Enterprise Phishing Reporting Platform
 
-Automated phishing simulation reporting platform supporting security awareness operations for 80,000+ employees while eliminating manual effort and reducing operational costs.
+Automated phishing awareness reporting platform supporting security operations for 80,000+ employees.
+
+The platform integrates Proofpoint, Workday, Splunk Cloud, and SharePoint to generate daily phishing analytics and awareness reports. Azure Functions, asynchronous processing, and batching mechanisms are used to overcome Splunk Cloud networking restrictions and long-running query limitations.
+
+#### Architecture
+
+```text
+Proofpoint
+     │
+Workday
+     │
+Splunk Cloud
+     │
+SharePoint
+     ▼
+Azure Functions
+     ▼
+Reporting Engine
+     ▼
+Power Automate
+```
+
+#### Engineering Challenges Solved
+
+- Automated enterprise-scale reporting workflows
+- Eliminated manual reporting effort
+- Reduced dependency on managed Splunk dashboards
+- Implemented false-positive detection logic
+- Supported long-running enterprise-scale queries
+
+#### Stack
+
+```text
+Python
+Azure Functions
+GitHub Actions
+Splunk Cloud
+Power Automate
+Workday
+Pandas
+```
+
+---
 
 ### AI-Powered Phishing Analytics Platform
 
-AI-powered analytics platform used by senior leadership and security stakeholders for natural-language exploration of enterprise phishing campaign performance.
+Natural-language analytics platform enabling leadership and security teams to explore phishing campaign performance without requiring direct access to raw datasets.
+
+The platform combines a Claude-powered agent architecture with a custom analytics toolkit composed of 17+ pandas-backed analytical functions exposed through gRPC services. Users can ask questions about campaign performance, engagement metrics, and risk trends using natural language.
+
+#### Architecture
+
+```text
+React Dashboard
+        │
+        ▼
+FastAPI
+        │
+        ▼
+Claude Agent
+        │
+        ▼
+gRPC Analytics Toolkit
+        │
+        ▼
+17+ Analytical Functions
+        │
+        ▼
+Campaign Dataset
+```
+
+#### Deployment
+
+```text
+Docker
+Kubernetes
+GitHub Actions
+Argo CD
+AWS S3
+```
+
+#### Stack
+
+```text
+FastAPI
+React
+TypeScript
+Claude
+gRPC
+Pandas
+Kubernetes
+Docker
+```
 
 ---
 
@@ -79,44 +206,68 @@ AI-powered analytics platform used by senior leadership and security stakeholder
 
 ### Languages
 
-`Python` `TypeScript` `JavaScript` `SQL` `Java`
+```text
+Python • TypeScript • JavaScript • SQL • Java
+```
 
 ### Frontend
 
-`React` `Next.js` `Tailwind CSS` `Material UI`
+```text
+React
+Next.js
+Tailwind CSS
+Material UI
+```
 
-### Backend & APIs
+### Backend
 
-`FastAPI` `Django` `GraphQL` `REST APIs` `gRPC`
+```text
+FastAPI
+Django
+GraphQL
+REST APIs
+gRPC
+```
 
 ### AI Systems
 
-`Claude Agents` `LangChain` `RAG`
-`Prompt Engineering` `Vector Databases`
+```text
+Claude Agents
+LangChain
+RAG
+Prompt Engineering
+Vector Search
+```
 
 ### Cloud Platforms
 
-`Azure`
-`Azure Functions`
-`Azure AD (Entra ID)`
-`Azure Subscriptions`
-`AWS S3`
+```text
+Azure
+Azure Functions
+Azure AD (Entra ID)
+Azure Subscriptions
+AWS S3
+```
 
 ### DevOps & Infrastructure
 
-`Docker`
-`Kubernetes`
-`Argo CD`
-`GitHub Actions`
+```text
+Docker
+Kubernetes
+Argo CD
+GitHub Actions
+```
 
 ### Data & Analytics
 
-`PostgreSQL`
-`MongoDB`
-`Redis`
-`Splunk`
-`Power BI`
-`Pandas`
+```text
+PostgreSQL
+MongoDB
+Redis
+Splunk
+Power BI
+Pandas
+```
 
 ---
 
@@ -134,10 +285,8 @@ AI-powered analytics platform used by senior leadership and security stakeholder
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/isaac-marian-dsouza-42b5aa288/
-- Portfolio: https://www.isaacmariandsouza.com
-- Email: isaacdsouza0809@gmail.com
+Portfolio: https://www.isaacmariandsouza.com
 
----
+LinkedIn: https://www.linkedin.com/in/isaac-marian-dsouza-42b5aa288/
 
-Full Stack Engineer | Security Engineering | AI Systems
+Email: isaacdsouza0809@gmail.com

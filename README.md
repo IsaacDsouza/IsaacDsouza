@@ -36,8 +36,8 @@ I build LLM agents that play nice with corporate compliance, code automated line
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="35" title="Argo CD" alt="Argo CD" />
 </p>
 
-> [cite_start]**AI Ecosystem:** Claude Agents, LangChain, RAG, and Vector Databases.
-> [cite_start]**SecOps & Analytics:** Splunk, Power BI, Pandas, ISO 27001, NIST, and HIPAA frameworks.
+> **AI Ecosystem:** Claude Agents, LangChain, RAG, and Vector Databases.
+> **SecOps & Analytics:** Splunk, Power BI, Pandas, ISO 27001, NIST, and HIPAA frameworks.
 
 ---
 
@@ -83,12 +83,6 @@ Claude • FastAPI • React • Kubernetes • Argo CD • gRPC
 ### BroadBITS (Full Stack Developer)
 * Optimized enterprise workflow orchestration applications using Django, React, TypeScript, and secure GraphQL APIs.
 
----
-
-## Hyperfixations
-* Multi-modal AI agents acting deterministically in enterprise setups.
-* Circumventing enterprise networking restrictions through asynchronous cloud proxies.
-* Writing clean, type-safe code that makes future-me happy on a Monday morning.
 
 ---
 
